@@ -1,0 +1,44 @@
+body{
+   text-shadow: 2px 5px 10px black;
+   background-color: beige;
+   font-family: Book Antiqua;
+}
+
+.a{
+   letter-spacing: 3px;
+   word-spacing: 3px;
+   line-height: 5px;
+   text-transform: capitalize;
+   font-weight: lighter;
+   size: 20px;
+  text-align: right;
+}
+
+h1{
+   font-weight: lighter;
+   size: 20px;
+   text-align: right  ;
+}
+
+
+address{
+   font-weight: lighter;
+   size: 20px; 
+   text-align: left;
+}
+h2{
+   font-weight: lighter;
+   size: 20px;
+   text-decoration: underline;
+   text-align: center;
+}
+h4{
+   font-weight: lighter;
+   size: 20px;
+
+}
+p{
+   font-weight: lighter;
+
+}
+
